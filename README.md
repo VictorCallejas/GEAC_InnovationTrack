@@ -4,7 +4,7 @@ The paper is in the docs folder
 
 I used Python 3.7
 
-You just need to install the dependencies, also is very recomanable to create a virtual enviroment.
+You just need to install the dependencies, also is very recommendable to create a virtual enviroment.
 
 1. Create virtual enviroment
 
